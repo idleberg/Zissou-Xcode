@@ -7,7 +7,7 @@ Three color schemes inspired by Wes Anderson's movie [The Life Aquatic with Stev
 ## Installation
 
 1. Download a `.dvtcolortheme` file
-2. Copy the file to `~/Library/Developer/Xcode/UserData/FontAndColorThemes`
+2. Copy the file to `~/Library/Developer/Xcode/UserData/FontAndColorThemes`, create folder if necessary
 
 ## License
 
